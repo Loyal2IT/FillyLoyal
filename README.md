@@ -15,14 +15,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Account Lockout Policy| <a href="https://google.com">Group Policy Management Lab</a>|
-| Drive Mapping | <a href="https://google.com">Group Policy Management Lab</a>|
-| Password Policy | Group Policy Management Lab |
-| Removable Storage Access | Group Policy Management Lab |
-| Restrict Access To Control Panel | Group Policy Management Lab |
-| Created Users| <a href="file:///Users/pierre/Desktop/Active%20Directory%20Projects%20screenshots/Creating%20a%20user.png">Active Directory|
-| Created Security Groups| <a href=
-| Created Organizational Units| <a href=
+| Account Lockout Policy| <a href="">Group Policy Management Lab</a>|
+| Drive Mapping | <a href="">Group Policy Management Lab</a>|
+| Password Policy | <a href="">Group Policy Management Lab</a>|
+| Removable Storage Access | <a href="">Group Policy Management Lab</a>|
+| Restrict Access To Control Panel | <a href="">Group Policy Management Lab</a>|
+| Created Users| <a href="https://github.com/FillyLoyal/pictures/blob/main/Creating%20a%20user.png">Active Directory|
+| Created Security Groups| <a href="https://github.com/FillyLoyal/pictures/blob/main/Created%20a%20security%20groups.png">Active Directory|
+| Created Organizational Units| <a href="https://github.com/FillyLoyal/pictures/blob/main/Created%20a%20security%20groups.png"Active Directory|
+
 
 
 
