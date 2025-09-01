@@ -16,15 +16,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 
-| Account Lockout Policy| <a href="https://github.com/user-attachments/files/22069554/Screenshot.2025-08-30.at.9.03.47.PM.7.59.28.PM.tiff">Group Policy Management Lab</a>|
-| Drive Mapping(1) | <a href="https://github.com/user-attachments/assets/bd61c18d-2492-49c0-82e6-bbb860cd75a9">Group Policy Management Lab</a>|
-| Drive Mapping(2) | <a href="https://github.com/user-attachments/assets/2ddec1a7-8e66-44de-a159-c3809ea7c8b1">Group Policy Management Lab</a>|
-| Password Policy | <a href="https://github.com/user-attachments/assets/2a62c8e7-3e58-42fb-b575-5d381a7cb08e">Group Policy Management Lab</a>|
-| Password Policy | <a href="https://github.com/user-attachments/assets/e5433a4c-3d9d-4e9b-bfb2-858bf59105aa">Group Policy Management Lab</a>|
-| Removable Storage Access | <a href="https://github.com/user-attachments/assets/8f9141d4-2a02-41b3-bb66-02dd31bd8d4a">Group Policy Management Lab</a>|
-| Removable Storage Access | <a href="https://github.com/user-attachments/assets/6ae225c8-86be-44e5-b519-22495e7c8b6b">Group Policy Management Lab</a>|
-| Restrict Access To Control Panel | <a href="https://github.com/user-attachments/assets/bc397493-4ca4-4c1a-b3ab-b1b935867f52">Group Policy Management Lab</a>|
-| Restrict Access To Control Panel | <a href="https://github.com/user-attachments/assets/bf3fca65-cec3-4eff-9ab0-ab09ceaf72e3">Group Policy Management Lab</a>|
+| Account Lockout Policy|<a href="https://github.com/user-attachments/files/22069554/Screenshot.2025-08-30.at.9.03.47.PM.7.59.28.PM.tiff">Group Policy Management Lab</a>|
+| Drive Mapping(1)| <a href="https://github.com/user-attachments/assets/bd61c18d-2492-49c0-82e6-bbb860cd75a9">Group Policy Management Lab</a>|
+| Drive Mapping(2)| <a href="https://github.com/user-attachments/assets/2ddec1a7-8e66-44de-a159-c3809ea7c8b1">Group Policy Management Lab</a>|
+| Password Policy| <a href="https://github.com/user-attachments/assets/2a62c8e7-3e58-42fb-b575-5d381a7cb08e">Group Policy Management Lab</a>|
+| Password Policy| <a href="https://github.com/user-attachments/assets/e5433a4c-3d9d-4e9b-bfb2-858bf59105aa">Group Policy Management Lab</a>|
+| Removable Storage Access| <a href="https://github.com/user-attachments/assets/8f9141d4-2a02-41b3-bb66-02dd31bd8d4a">Group Policy Management Lab</a>|
+| Removable Storage Access| <a href="https://github.com/user-attachments/assets/6ae225c8-86be-44e5-b519-22495e7c8b6b">Group Policy Management Lab</a>|
+| Restrict Access To Control Panel| <a href="https://github.com/user-attachments/assets/bc397493-4ca4-4c1a-b3ab-b1b935867f52">Group Policy Management Lab</a>|
+| Restrict Access To Control Panel| <a href="https://github.com/user-attachments/assets/bf3fca65-cec3-4eff-9ab0-ab09ceaf72e3">Group Policy Management Lab</a>|
 | Created Users| <a href="https://github.com/FillyLoyal/pictures/blob/main/Creating%20a%20user.png">Active Directory|
 | Created Security Groups| <a href="https://github.com/FillyLoyal/pictures/blob/main/Created%20a%20security%20groups.png">Active Directory|
 | Created Organizational Units| <a href="https://github.com/FillyLoyal/pictures/blob/main/Created%20a%20security%20groups.png">Active Directory|
