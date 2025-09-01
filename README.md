@@ -8,7 +8,11 @@ Detail-oriented I.T. professional with a strong academic background in Computer 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+|  Project                                         | Objectives         |
+|-----------------------------------------------|----------------------------|
+|Active Directory Home Lab| Built a Windows Server domain controller to simulate enterprise identity management. Focused on creating organizational units, managing users, and configuring group security for realistic IT administration.|
+|Group Policy Management Home Lab| Designed and tested GPOs to enforce security, access restrictions, and desktop standardization across an Active Directory domain. Validated policy inheritance and minimized configuration conflicts to mirror enterprise environments.|
+|Ticketing System Home Lab (SpiceWorks)| Simulated real-world IT support operations by creating, categorizing, and resolving tickets. Practiced escalation, SLA tracking, and email integration to model enterprise help desk workflows.|
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -27,6 +31,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Created Users | <a href="https://github.com/FillyLoyal/pictures/blob/main/Creating%20a%20user.png">Active Directory|
 | Created Security Groups | <a href="https://github.com/FillyLoyal/pictures/blob/main/Created%20a%20security%20groups.png">Active Directory|
 | Created Organizational Units | <a href="https://github.com/FillyLoyal/pictures/blob/main/Created%20a%20security%20groups.png">Active Directory|
+| Creating a Ticket | <a href="https://github.com/user-attachments/assets/0fc1fc08-02d1-4e85-84ff-f80f3baeac62">Ticketing System</a>|
+| Ticket Closure Checklist | <a href="https://github.com/user-attachments/assets/7bb80191-2b3b-4494-be4f-52087855758f">Ticketing System</a>|
+| Ticket Escalation Process(1) | <a href="https://github.com/user-attachments/assets/026bae81-f4ae-40d5-a178-fa97d751565e">Ticketing System</a>|
+| Ticket Escalation Process(2) | <a href="https://github.com/user-attachments/assets/cd39a35b-c35f-4467-a2da-6196839cadfb">Ticketing System</a>|
 
 
 
