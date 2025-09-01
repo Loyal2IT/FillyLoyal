@@ -1,12 +1,15 @@
- 
+## Brief Introduction
+
+Detail-oriented I.T. professional with a strong academic background in Computer Science and Information Security. CompTIA A+, Network+, and
+Security+ certified. Experienced in supporting users, resolving technical issues, and maintaining a secure digital environment. Proven ability to manage hardware and software troubleshooting in fast-paced settings. Committed to delivering excellent technical support and user education.
+
+
 <a href="https://linkedin.com/in/pierretheophan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-Detail-oriented I.T. professional with a strong academic background in Computer Science and Information Security 
+
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 |  Project                                         | Objectives         |
 |-----------------------------------------------|----------------------------|
@@ -40,7 +43,7 @@ Detail-oriented I.T. professional with a strong academic background in Computer 
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
