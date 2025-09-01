@@ -18,7 +18,6 @@ Security+ certified. Experienced in supporting users, resolving technical issues
 |Ticketing System Home Lab (SpiceWorks)| Simulated real-world IT support operations by creating, categorizing, and resolving tickets. Practiced escalation, SLA tracking, and email integration to model enterprise help desk workflows.|
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 |  Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
