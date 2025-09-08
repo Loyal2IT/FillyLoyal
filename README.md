@@ -15,6 +15,7 @@ Security+ certified. Experienced in supporting users, resolving technical issues
 |Active Directory Home Lab| Built a Windows Server domain controller to simulate enterprise identity management. Focused on creating organizational units, managing users, and configuring group security for realistic IT administration.|
 |Group Policy Management Home Lab| Designed and tested GPOs to enforce security, access restrictions, and desktop standardization across an Active Directory domain. Validated policy inheritance and minimized configuration conflicts to mirror enterprise environments.|
 |Ticketing System Home Lab (SpiceWorks)| Simulated real-world IT support operations by creating, categorizing, and resolving tickets. Practiced escalation, SLA tracking, and email integration to model enterprise help desk workflows.|
+|Remote Desktop Support Lab| Configured and tested Remote Desktop Protocol (RDP) to simulate real-world remote IT support. Enabled Remote Desktop on a client machine, added a support account with proper permissions, and established secure connections from a help desk workstation. Validated firewall rules and IP addressing to ensure reliable remote access in a lab environment.|
 
 ## Skills
 
@@ -36,6 +37,13 @@ Security+ certified. Experienced in supporting users, resolving technical issues
 | Ticket Closure Checklist | <a href="https://github.com/user-attachments/assets/7bb80191-2b3b-4494-be4f-52087855758f">Ticketing System</a>|
 | Ticket Escalation Process(1) | <a href="https://github.com/user-attachments/assets/026bae81-f4ae-40d5-a178-fa97d751565e">Ticketing System</a>|
 | Ticket Escalation Process(2) | <a href="https://github.com/user-attachments/assets/cd39a35b-c35f-4467-a2da-6196839cadfb">Ticketing System</a>|
+|RDP (1)| <a href="https://github.com/user-attachments/assets/db0b93ae-b271-4831-9d42-5fee5a3f6be3">Remote Desktop Support</a>|
+|RDP (2)| <a href="https://github.com/user-attachments/assets/7b4868ba-9cd0-4ca9-a068-581329a0875a">Remote Desktop Support</a>|
+|RDP (3)| <a href="https://github.com/user-attachments/assets/2fe86415-3bae-4fcd-84f0-94d0babc678a">Remote Desktop Support</a>|
+|RDP (4)| <a href="https://github.com/user-attachments/assets/bb99b66c-9d55-4478-8e70-fe1fea368ca3">Remote Desktop Support</a>|
+|RDP (5)| <a href="https://github.com/user-attachments/assets/84981f48-d19d-4f43-88c1-a28ed528b71b">Remote Desktop Support</a>|
+|RDP (6)| <a href="https://github.com/user-attachments/assets/f8d23a9d-1501-4b47-a6d2-b85f41647137">Remote Desktop Support</a>|
+|RDP (7)| <a href="https://github.com/user-attachments/assets/e202ab28-7d52-4726-9465-c95a6c5ec424">Remote Desktop Support</a>|
 
 
 
@@ -52,3 +60,4 @@ Security+ certified. Experienced in supporting users, resolving technical issues
 - Group Policy Management Lab
 - Active Directory Lab
 - Ticketing System (SpiceWorks) Lab
+- Remote Desktop Support Lab
